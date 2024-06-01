@@ -1,4 +1,4 @@
-<h2 align="left">👋 About me </h2>
+<h2 align="left">Hi there👋</h2>
 <h4 align="left">I'm a passionate and experienced frontend web developer.</h4>
 
 - 🔭 Currently open to work on frontend projects.
